@@ -11,13 +11,13 @@ Plataforma de eventos, desenvolvida durante a Ignite Lab - Semana de especializa
 ## TECNOLOGIAS USADAS
 
 
-      * React Js
-      * TypeScript
-      * Tailwing
-      * Vite
-      * Vime JS
-      * Apollo
-      * Grafiql
+    React Js
+    TypeScript
+    Tailwing
+    Vite
+    Vime JS
+    Apollo
+    Grafiql
       
 
 Layout
