@@ -5,7 +5,7 @@
 ## 💻 Sobre o projeto
 
 Plataforma de eventos, desenvolvida durante a Ignite Lab - Semana de especialização em React
-[Confira o projeto](https://ecatalogo-manoelpatrocinio.vercel.app/) 
+[Confira o projeto](https://event-platform-five-sooty.vercel.app/) 
 
 
 ## TECNOLOGIAS USADAS
