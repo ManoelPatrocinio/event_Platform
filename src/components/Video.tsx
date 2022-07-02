@@ -23,8 +23,8 @@ export function Video(props: VideoProps) {
 
   if (!data || !data.lesson) {
     return (
-      <div className="flex-1">
-        <p>Carregando...</p>
+      <div className="flex-1 flex justify-center items-center">
+        <p className="text-sm text-gray-50 md:text-3xl">Carregando...</p>
       </div>
     );
   }
