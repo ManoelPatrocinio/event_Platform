@@ -4,7 +4,9 @@
 
 ## 💻 Sobre o projeto
 
-Plataforma de eventos, desenvolvida durante a Ignite Lab - Semana de especialização em React
+Plataforma de eventos, desenvolvida durante a Ignite Lab - Semana de especialização em React da Rocketseat.
+
+
 [Confira o projeto](https://event-platform-five-sooty.vercel.app/) 
 
 
@@ -17,7 +19,7 @@ Plataforma de eventos, desenvolvida durante a Ignite Lab - Semana de especializa
     Vite
     Vime JS
     Apollo
-    Grafiql
+    Graphql
       
 
 Layout
